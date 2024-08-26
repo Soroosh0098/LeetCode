@@ -1,2 +1,2 @@
-# LeetHub
-leet hub solutions using Golang
+# LeetCode
+leet Code solutions using Golang
